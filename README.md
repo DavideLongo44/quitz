@@ -8,18 +8,7 @@ Erste Techstarter Projeckt
 
   <p>Das Quiz wurde am 12.10.2023 erstellt. Die ersten Dateien wurden am selben Tag erstellt.</p>
 
-  <h2>Zugriffsberechtigungen</h2>
-
-  <p>Die Zugriffsberechtigungen für das Repository wurden wie folgt vergeben:</p>
-
-  <ul>
-    <li>Ahmet: Mitwirkender</li>
-    <li>Patrik: Mitwirkender</li>
-    <li>Jacob: Mitwirkender</li>
-    <li>Colin: Mitwirkender</li>
-    <li>Dimitar: Mitwirkender</li>
-  </ul>
-
+  
   <h2>Dateien</h2>
 
   <p>Das Repository enthält die folgenden Dateien:</p>
